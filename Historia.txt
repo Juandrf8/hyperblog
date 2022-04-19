@@ -7,3 +7,5 @@ Soy ingeniero en Control de la UD
 Su estatura es de 1.78 metros
 
 Hoy tabaja en SkanHawk
+
+Esta verion es la 2.5
